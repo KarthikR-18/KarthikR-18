@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karthik R</h1>
 
-<h3 align="center">Aspiring Software Developer | Java | Full-Stack Development | AI Integration</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=Java+Developer+in+Progress;Practicing+Data+Structures+%26+Algorithms;Building+Full-Stack+Projects;Exploring+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Building+Projects;Exploring+Full-Stack+Development;Learning+AI+Integration" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 BE student at PES Institution of Technology and Management, Shivamogga.
-- 💻 Learning Java and Data Structures & Algorithms.
+- 💻 Learning Java and software development.
 - 🌱 Exploring Full-Stack Development and AI Integration.
 - 🧠 Improving my problem-solving and programming skills.
 - 🛠️ Building projects to develop practical software engineering skills.
@@ -22,16 +22,19 @@
 ## 🛠️ Tech Stack
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp" alt="Java and C++" />
 </p>
 
 ### Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code, IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code and IntelliJ IDEA" />
 </p>
 
 ### Currently Exploring
+
 - Full-Stack Web Development
 - Artificial Intelligence Integration
 - Backend Development
@@ -39,28 +42,29 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projects
 
-🚀 *E-Commerce Web Application*
+### 🛒 E-Commerce Web Application
+
 - Developing an e-commerce application with product browsing and shopping features.
 - Working toward a user-friendly shopping experience.
+- Focused on building practical web development skills.
 
-💻 *Java & DSA Practice*
-- Practicing arrays, strings, searching, sorting, and problem-solving.
-- Improving algorithmic thinking and coding efficiency.
+### 💻 Programming Projects
 
-> More projects and details will be added as development progresses.
+- Developing programming projects to strengthen technical skills.
+- Exploring software development concepts through hands-on practice.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthikR-18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikR-18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikR-18&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikR-18&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
@@ -75,6 +79,8 @@
 
 ---
 
+<h3 align="center">✨ Consistency Beats Talent ✨</h3>
+
 <p align="center">
-  <i>"Consistency, curiosity, and continuous learning lead to growth."</i>
+  <i>Keep learning. Keep building. Keep growing.</i>
 </p>

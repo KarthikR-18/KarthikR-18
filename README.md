@@ -1,4 +1,3 @@
-
 # Hi, I'm Karthik R 👋
 
 ### Aspiring Software Developer | Full Stack Development | Problem Solver
@@ -80,13 +79,13 @@ A fitness tracking application designed to help users monitor their fitness acti
 ## 🧠 LeetCode Profile
 
 <p align="center">
-  <a href="https://leetcode.com/u/Karthik R/">
+  <a href="https://leetcode.com/u/KarthikR-18/">
     <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/9986966718?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Statistics"/>
+  <img src="https://leetcard.jacoblin.cool/KarthikR-18?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Statistics"/>
 </p>
 
 ---

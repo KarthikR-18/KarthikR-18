@@ -1,86 +1,65 @@
-<h1 align="center">Hi 👋, I'm Karthik R</h1>
 
-<h3 align="center">Aspiring Software Developer</h3>
+# Hi, I'm Karthik R 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Building+Projects;Exploring+Full-Stack+Development;Learning+AI+Integration" alt="Typing SVG" />
-</p>
+### Aspiring Software Developer | Problem Solver | Tech Enthusiast
 
----
+I'm an Engineering student passionate about software development, building real-world applications, and solving problems through technology.
 
-## 👨‍💻 About Me
-
-- 🎓 BE student at PES Institution of Technology and Management, Shivamogga.
-- 💻 Learning Java and software development.
-- 🌱 Exploring Full-Stack Development and AI Integration.
-- 🧠 Improving my problem-solving and programming skills.
-- 🛠️ Building projects to develop practical software engineering skills.
-- 🎯 Aspiring to become a skilled software developer.
+I believe in continuous learning, consistency, and turning ideas into practical solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-### Programming Languages
+### ✈️ 1. Smart AI Travel Planner
+An AI-powered travel planning application designed to simplify travel planning and help users explore destinations.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp" alt="Java and C++" />
-</p>
+[🔗 View Project](https://github.com/KarthikR-18/Smart-AI-Travel-Planner-for-today)
 
-### Tools & Platforms
+### 👁️ 2. Digital Vision Companion
+A digital vision assistance project focused on making visual information more accessible through technology.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code and IntelliJ IDEA" />
-</p>
+[🔗 View Project](https://github.com/KarthikR-18/Digital-Vision-Companion)
 
-### Currently Exploring
+### 💪 3. Advanced Fitness Tracker
+A fitness tracking application designed to help users monitor their fitness activities and progress.
 
-- Full-Stack Web Development
+[🔗 View Project](https://github.com/KarthikR-18/Advance-fitness-tracker)
+
+---
+
+## 💻 Technical Skills & Interests
+
+- Java
+- C++
+- Data Structures & Algorithms
+- Full Stack Development
 - Artificial Intelligence Integration
-- Backend Development
-- Database Management
+- Problem Solving
 
 ---
 
-## 🚀 Projects
+## 🎯 Currently Working On
 
-### 🛒 E-Commerce Web Application
-
-- Developing an e-commerce application with product browsing and shopping features.
-- Working toward a user-friendly shopping experience.
-- Focused on building practical web development skills.
-
-### 💻 Programming Projects
-
-- Developing programming projects to strengthen technical skills.
-- Exploring software development concepts through hands-on practice.
+- Improving Data Structures & Algorithms.
+- Building practical software applications.
+- Strengthening Java programming skills.
+- Exploring Full Stack Development and AI integration.
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthikR-18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikR-18&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthikR-18&show_icons=true&theme=github_dark)
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-<p>
-  <a href="https://github.com/KarthikR-18">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- GitHub: [KarthikR-18](https://github.com/KarthikR-18)
 
 ---
 
-<h3 align="center">✨ Consistency Beats Talent ✨</h3>
+### Consistency beats talent. 🚀
 
-<p align="center">
-  <i>Keep learning. Keep building. Keep growing.</i>
-</p>
+**Always Learning | Always Building | Always Improving**

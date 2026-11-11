@@ -25,7 +25,7 @@ I enjoy exploring new technologies, developing practical solutions, and continuo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Database
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -38,20 +38,39 @@ I enjoy exploring new technologies, developing practical solutions, and continuo
 
 ## 🚀 Featured Projects
 
-### ✈️ 1. Smart AI Travel Planner
+### ✈️ Smart AI Travel Planner
 An AI-powered travel planning application designed to simplify travel planning and help users explore destinations.
 
-🔗 [View Project](https://github.com/KarthikR-18/Smart-AI-Travel-Planner-for-today)
+**Project Highlights:**
+- AI-powered travel planning concept.
+- Destination exploration.
+- Travel itinerary organization.
 
-### 👁️ 2. Digital Vision Companion
+**Repository:** [Smart AI Travel Planner](https://github.com/KarthikR-18/Smart-AI-Travel-Planner-for-today)
+
+---
+
+### 👁️ Digital Vision Companion
 A digital vision assistance project focused on making visual information more accessible through technology.
 
-🔗 [View Project](https://github.com/KarthikR-18/Digital-Vision-Companion)
+**Project Highlights:**
+- Digital vision assistance.
+- Visual information accessibility.
+- Technology-based assistance.
 
-### 💪 3. Advanced Fitness Tracker
+**Repository:** [Digital Vision Companion](https://github.com/KarthikR-18/Digital-Vision-Companion)
+
+---
+
+### 💪 Advanced Fitness Tracker
 A fitness tracking application designed to help users monitor their fitness activities and progress.
 
-🔗 [View Project](https://github.com/KarthikR-18/Advance-fitness-tracker)
+**Project Highlights:**
+- Fitness activity tracking.
+- Progress monitoring.
+- Fitness management.
+
+**Repository:** [Advanced Fitness Tracker](https://github.com/KarthikR-18/Advance-fitness-tracker)
 
 ---
 

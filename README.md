@@ -80,12 +80,20 @@ A fitness tracking application designed to help users monitor their fitness acti
 
 <p align="center">
   <a href="https://leetcode.com/u/KarthikR-18/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+    <img src="https://img.shields.io/badge/LeetCode-KarthikR--18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/KarthikR-18?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Statistics"/>
+  <img src="https://leetcard.jacoblin.cool/KarthikR-18?theme=light&font=Inter&ext=contest" alt="LeetCode Statistics"/>
+</p>
+
+---
+
+## 📅 LeetCode Activity Heatmap
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/KarthikR-18?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Activity Heatmap"/>
 </p>
 
 ---
@@ -119,7 +127,7 @@ A fitness tracking application designed to help users monitor their fitness acti
     <img src="https://img.shields.io/badge/GitHub-KarthikR--18-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/u/KarthikR-18/">
-    <img src="https://img.shields.io/badge/LeetCode-Karthik-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-KarthikR--18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 

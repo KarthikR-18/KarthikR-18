@@ -80,7 +80,7 @@ A fitness tracking application designed to help users monitor their fitness acti
 ## 🧠 LeetCode Profile
 
 <p align="center">
-  <a href="https://leetcode.com/u/9986966718/">
+  <a href="https://leetcode.com/u/Karthik R/">
     <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
 </p>

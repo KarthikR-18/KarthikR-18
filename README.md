@@ -38,7 +38,8 @@ I enjoy exploring new technologies, developing practical solutions, and continuo
 
 ## 🚀 Featured Projects
 
-### ✈️ Smart AI Travel Planner
+### ✈️ 1. Smart AI Travel Planner
+
 An AI-powered travel planning application designed to simplify travel planning and help users explore destinations.
 
 **Project Highlights:**
@@ -46,11 +47,12 @@ An AI-powered travel planning application designed to simplify travel planning a
 - Destination exploration.
 - Travel itinerary organization.
 
-**Repository:** [Smart AI Travel Planner](https://github.com/KarthikR-18/Smart-AI-Travel-Planner-for-today)
+🔗 [View Project](https://github.com/KarthikR-18/Smart-AI-Travel-Planner-for-today)
 
 ---
 
-### 👁️ Digital Vision Companion
+### 👁️ 2. Digital Vision Companion
+
 A digital vision assistance project focused on making visual information more accessible through technology.
 
 **Project Highlights:**
@@ -58,11 +60,12 @@ A digital vision assistance project focused on making visual information more ac
 - Visual information accessibility.
 - Technology-based assistance.
 
-**Repository:** [Digital Vision Companion](https://github.com/KarthikR-18/Digital-Vision-Companion)
+🔗 [View Project](https://github.com/KarthikR-18/Digital-Vision-Companion)
 
 ---
 
-### 💪 Advanced Fitness Tracker
+### 💪 3. Advanced Fitness Tracker
+
 A fitness tracking application designed to help users monitor their fitness activities and progress.
 
 **Project Highlights:**
@@ -70,7 +73,21 @@ A fitness tracking application designed to help users monitor their fitness acti
 - Progress monitoring.
 - Fitness management.
 
-**Repository:** [Advanced Fitness Tracker](https://github.com/KarthikR-18/Advance-fitness-tracker)
+🔗 [View Project](https://github.com/KarthikR-18/Advance-fitness-tracker)
+
+---
+
+## 🧠 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/9986966718/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/9986966718?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Statistics"/>
+</p>
 
 ---
 
@@ -86,15 +103,26 @@ A fitness tracking application designed to help users monitor their fitness acti
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthikR-18&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikR-18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikR-18&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikR-18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-KarthikR--18-181717?style=for-the-badge&logo=github)](https://github.com/KarthikR-18)
+<p align="left">
+  <a href="https://github.com/KarthikR-18">
+    <img src="https://img.shields.io/badge/GitHub-KarthikR--18-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/9986966718/">
+    <img src="https://img.shields.io/badge/LeetCode-Karthik-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 ---
 

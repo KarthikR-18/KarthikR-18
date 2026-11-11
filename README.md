@@ -119,7 +119,7 @@ A fitness tracking application designed to help users monitor their fitness acti
   <a href="https://github.com/KarthikR-18">
     <img src="https://img.shields.io/badge/GitHub-KarthikR--18-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/u/9986966718/">
+  <a href="https://leetcode.com/u/KarthikR-18/">
     <img src="https://img.shields.io/badge/LeetCode-Karthik-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
